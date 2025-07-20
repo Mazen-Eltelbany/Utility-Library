@@ -123,11 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\examples\Utility-Library.cpp" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="..\Libraries\ClsDate.h" />
     <ClInclude Include="..\Libraries\clsUtil.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Utility-Library.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
