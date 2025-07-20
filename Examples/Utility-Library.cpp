@@ -5,6 +5,8 @@ using namespace std;
 int main()
 {
     clsUtil::Srand();
+    clsDate date;
+    date.print();
     cout << clsUtil::random(10, 20) << e;
     cout << clsUtil::getrandomchar(clsUtil::mixletter) << e;
     cout << clsUtil::Generateword(clsUtil::mixletter, 10) << e;

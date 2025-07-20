@@ -40,35 +40,6 @@ int main() {
 }
 ```
 
-## 📦 How to Run<br>
-
-1-**Clone the repo:**
-
-```bash
-git clone https://github.com/Mazen-Eltelbany/Utility-Library.git
-```
-
-2-**Navigate to the project:**
-
-```bash
-1-cd Utility-Library
-2-cd Examples
-```
-
-3- **Compile:**
-"If you don't have a g++ compiler download from this video"
-<a href="https://youtu.be/GxFiUEO_3zM">The Installation guide</a>
-
-```bash
-g++ Utility-Library.cpp -o UL
-```
-
-4- **Run:**
-
-```bash
-./UL
-```
-
 ## Author
 
 - 👤 Mazen Eltelbany
